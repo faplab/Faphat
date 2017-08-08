@@ -14,6 +14,7 @@ When you receive your FapHat, it should already contain the firmware and is read
 5. Then you can flash the firmware with the "Upload" button.
 
 ## More information ##
+- Charging is done by USB. Red light on board means that the battery is charging. When the light turns green, battery is full.
 - The default firmware / demo reel uses the fastled library to animate the leds.
 - The board uses optiboot bootloader.
 - The button on the board puts the device in low power sleep mode.
