@@ -9,7 +9,7 @@ When you receive your FapHat, it should already contain the firmware and is read
 
 1. First you need to download the Arduino IDE from [https://arduino.cc] and install it.
 2. FapHat uses the CH340G serial adapter, so make sure your operating system have drivers for that. Drivers might be available [here](http://sparks.gogo.co.nz/ch340.html).
-3. Download the default firmware [here](https://github.com/faplab/faphat/tree/master/src/DemoReel100Sleep). Make a new Arduino project and copy the code there.
+3. Download the default firmware [here](https://github.com/faplab/faphat/tree/master/src/DemoReel100Sleep). The file should open in Arduino IDE.
 4. Select "Arduino Uno" as the board type in Arduino tools menu. Also select the correct usb port.
 5. Then you can flash the firmware with the "Upload" button.
 
