@@ -1,8 +1,8 @@
 # FapHat #
-FapHat is a led strip controller board with an integrated battery charger and a serial adapter. It is compatible with the Arduino IDE.
+FapHat is a led strip controller board with an integrated battery charger and a serial adapter. It is compatible with the Arduino IDE and is meant to be easily hackable.
 
 ## About the project ##
-The goal of the project was to create an easily hackable, battery powered Arduino IDE compatible board for various projects. As we developed the project, we designed it to be able to run a WS2812b led strip for multiple hours. 18650 sized battery seemed suitable and the PCB design is based on the dimensions of that battery.
+The goal of the project was to create a battery powered Arduino IDE compatible board for various projects. As we developed the project, we designed it to be able to run a WS2812b led strip for multiple hours. 18650 sized battery seemed suitable and the PCB design is based on the dimensions of that battery.
 
 ## Getting started ##
 When you receive your FapHat, it should already contain the firmware and is ready to be used. However, if you want to modify the code or reflash the device, you can easily do that with Arduino IDE:
