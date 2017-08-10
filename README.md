@@ -1,4 +1,5 @@
 # FapHat #
+![board assembled with led strip](http://github.com/faplab/doc/assembled.jpg)  
 FapHat is a led strip controller board with an integrated battery charger and a serial adapter. It is compatible with the Arduino IDE and is meant to be easily hackable.
 
 ## About the project ##
