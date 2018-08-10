@@ -9,7 +9,7 @@ The goal of the project was to create a battery powered Arduino IDE compatible b
 When you receive your FapHat, it should already contain the firmware and is ready to be used. However, if you want to modify the code or reflash the device, you can easily do that with Arduino IDE:
 
 1. First you need to download the Arduino IDE from [https://arduino.cc] and install it.
-2. FapHat uses the CH340G serial adapter, so make sure your operating system have drivers for that. Drivers might be available [here](http://sparks.gogo.co.nz/ch340.html).
+2. FapHat uses the CH340G serial adapter, so make sure your operating system has drivers for that. Drivers might be available [here](http://sparks.gogo.co.nz/ch340.html).
 3. Download the default firmware [here](https://github.com/faplab/faphat/tree/master/src/DemoReel100Sleep). The file should open in Arduino IDE.
 4. Select "Arduino Uno" as the board type in Arduino tools menu. Also select the correct usb port.
 5. Install FastLED library from sketch menu, under include library -> manage libraries.
